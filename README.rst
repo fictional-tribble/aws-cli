@@ -436,3 +436,8 @@ help:
 .. _`Amazon Web Services Security Bulletins website`: https://aws.amazon.com/security/security-bulletins
 .. _pip: http://www.pip-installer.org/en/latest/
 .. _`download the tarball`: https://pypi.org/project/awscli/
+
+
+.. image:: https://badges.staging.guardrails.io/fictional-tribble/aws-cli.svg
+   :alt: GuardRails Staging badge
+   :target: https://www.staging.guardrails.io
